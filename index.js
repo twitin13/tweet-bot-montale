@@ -13,13 +13,13 @@ const client = new TwitterApi({
   try {
     // 📝 Isi tweet kamu di sini (nanti aku bantu isi sesuai request kamu)
     const textTweet = `
-Murah banget mumpung lagi turun harga, Mak Dura cuma 8K UDAH INCLUDE ONGKIR!!
+murah bangett  nih mumpung lagi turun harga, janji jiwa 10K an udah termasuk ongkir yaa!
 
-Buruan co sebelum naik 👇
-https://spf.shopee.co.id/2g4kmd660h
-https://spf.shopee.co.id/2g4kmd660h
+buruan guys co sebelum naik lagii 👇
+spf.shopee.co.id/2qOBKjN1ub
+spf.shopee.co.id/2qOBKjN1ub
 
-diskon kode promo voucher shopeefood gofood grabfood go grab shopee food gojek gratis ongkir
+diskon kode promo voucher shopeefood gofood grabfood 
 `;
 
     // 📸 Upload 1 gambar dari repo
@@ -36,4 +36,5 @@ diskon kode promo voucher shopeefood gofood grabfood go grab shopee food gojek g
     console.error('❌ Gagal kirim tweet:', error);
   }
 })();
+
 
